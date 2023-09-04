@@ -1,6 +1,6 @@
 //java program to find wether the given number is prime or not.
 import java.util.*;
-public class PrimeDemo2
+public class PrimeDemoV2
 {
 public static void main(String args[]) {
     int i,num,flag=0;
