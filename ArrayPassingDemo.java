@@ -8,7 +8,7 @@ public class ArrayPassingDemo {
                 m = arr[i];
             }
         }
-        System.out.println("The smallest element is "+m);
+        System.out.println("The smallest element in the array is "+m);
     }
     public static void main(String args[])
     {
