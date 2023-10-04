@@ -1,5 +1,5 @@
 import java.io.*;
-public class ArrayPassingDemo {
+class ArrayPassingDemo {
     static void min(int arr[]) {
         int m = arr[0];
         for(int i=0;i<arr.length;i++)
