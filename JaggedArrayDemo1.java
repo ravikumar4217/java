@@ -1,4 +1,4 @@
-public class JoggedArrayDemo {
+public class JggedArrayDemo {
 	public static void main(String args[]) {
 		int jarr[][]=new int [3][3];
 		jarr[0]=new int[3];
